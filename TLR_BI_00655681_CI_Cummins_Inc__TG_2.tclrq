@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<TcLicenseInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.beckhoff.com/schemas/2011/11/TcLicenseInfo">
+	<TargetInfo>
+		<TcTargetDesc>
+			<TargetType>CX5000-CE</TargetType>
+			<TargetVersion>
+				<Version>3</Version>
+				<Revision>1</Revision>
+				<Build>4024</Build>
+			</TargetVersion>
+			<TargetFeatures>
+				<NetId>5.12.242.138.1.1</NetId>
+			</TargetFeatures>
+			<Hardware>
+				<Model>5020</Model>
+				<SerialNo>2945</SerialNo>
+				<CPUVersion>3.2</CPUVersion>
+				<Date>7.6.11</Date>
+				<CPUArchitecture>0</CPUArchitecture>
+			</Hardware>
+			<OsImage>
+				<ImageDevice>CX5000</ImageDevice>
+				<ImageVersion>4.08p</ImageVersion>
+				<ImageLevel>HPS</ImageLevel>
+				<OsName>Windows CE</OsName>
+				<OsVersion>6.0</OsVersion>
+			</OsImage>
+		</TcTargetDesc>
+	</TargetInfo>
+	<LicenseInfo>
+		<SystemId Level="70" SerialNo="000bp3o9">{729239FA-6399-90CE-E722-80D23B4B9718}</SystemId>
+		<PurchaseOrder><![CDATA[00655681]]></PurchaseOrder>
+		<CustomOrder><![CDATA[Cummins Inc.]]></CustomOrder>
+		<CustomComment><![CDATA[RMA 24046]]></CustomComment>
+		<IssueTime>2022-05-06T15:24:00</IssueTime>
+		<License ManuallyAdded="true">
+			<LicenseId>{92583661-35AE-45CE-BD4F-C35BFE16F07E}</LicenseId>
+			<Name>TC3 Database-Server</Name>
+			<OrderNo>TF6420</OrderNo>
+		</License>
+		<License ManuallyAdded="true">
+			<LicenseId>{BDCC0070-42D5-49AE-ABF1-1D4434813D60}</LicenseId>
+			<Name>TC3 OPC-UA</Name>
+			<OrderNo>TF6100</OrderNo>
+		</License>
+		<License ManuallyAdded="true">
+			<LicenseId>{796D380F-D49E-4C0C-A05F-500052FAC883}</LicenseId>
+			<Name>TC3 HMI Server</Name>
+			<OrderNo>TF2000</OrderNo>
+		</License>
+		<License ManuallyAdded="true">
+			<LicenseId>{66689887-CCBD-452C-AC9A-039D997C6E66}</LicenseId>
+			<Name>TC3 PLC</Name>
+			<OrderNo>TC1200</OrderNo>
+		</License>
+		<License ManuallyAdded="true">
+			<LicenseId>{99A3CF49-FFBF-49D4-BA30-F4C0593B5161}</LicenseId>
+			<Name>TC3 HMI Clients Pack 5</Name>
+			<OrderNo>TF2025</OrderNo>
+		</License>
+	</LicenseInfo>
+</TcLicenseInfo>
